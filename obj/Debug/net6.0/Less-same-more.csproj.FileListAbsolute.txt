@@ -1,0 +1,15 @@
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\bin\Debug\net6.0\Less-same-more.exe
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\bin\Debug\net6.0\Less-same-more.deps.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\bin\Debug\net6.0\Less-same-more.runtimeconfig.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\bin\Debug\net6.0\Less-same-more.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\bin\Debug\net6.0\Less-same-more.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.csproj.AssemblyReference.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.AssemblyInfoInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.AssemblyInfo.cs
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\refint\Less-same-more.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\Less-same-more.genruntimeconfig.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\menos, igual o mayor\Less-same-more\obj\Debug\net6.0\ref\Less-same-more.dll
